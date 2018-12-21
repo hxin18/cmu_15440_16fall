@@ -19,7 +19,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/cmu440/lspnet"
+	"../lspnet"
 )
 
 type testSystem struct {
